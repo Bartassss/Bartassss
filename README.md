@@ -1,8 +1,8 @@
 
 ### Hi there 👋
 
-Welcome to my profile! I completed a technical high school in computer science, and now I'm a
-student pursuing a passion for technology. I'm also a **Junior Frontend Engineer / Grapgic Designer**. 
+🖥️ Welcome to my profile! I completed a technical high school in computer science, and now I'm a
+student pursuing a passion for technology 🚀. I'm also a **Junior Frontend Engineer / Grapgic Designer**. 
 Creating captivating user experiences (UI/UX) is what excites me the most. I love
 exploring the ever-evolving world of IT and design, constantly seeking to expand my skills.
 To see my profile in detail, I recommend to look at my LinkedIn profile.
